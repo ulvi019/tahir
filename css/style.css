@@ -1,0 +1,10 @@
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+.box:active {
+  position: absolute;
+  left: 100px;
+  background-color: black;
+}/*# sourceMappingURL=style.css.map */
